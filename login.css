@@ -1,0 +1,70 @@
+h1{
+    color: rgb(239, 236, 241);
+    /* background-color: rgb(232, 225, 219); */
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    
+}
+legend{
+    text-align: center;
+    /* margin-left: 3%; */
+    background-color: rgb(118, 97, 77);
+
+}
+a:hover{
+    color: blue;
+    text-decoration-skip: none;
+    /* color: white; */
+}
+a{
+    color: white;
+}
+fieldset{
+    background-color: rgba(64, 62, 62, 0.937);
+    border-color: black;
+}
+body{
+    /* background-image: url(".../login.jpg"); */
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+img{
+    width: -webkit-fill-available;
+}
+.background{
+    position: absolute;
+    /* align-items: center; */
+    top: 45%;
+    left: 30%;
+    bottom:50%;
+}
+.box{
+    width: 140%;
+    bottom: 4%;
+    margin-left: 93px
+
+}
+p{
+    color: white;
+}
+.email{
+    text-align: center;
+    margin-right: 4%;
+}
+.password{
+    text-align: center;
+    margin-right: 8%;
+}
+.forgotpass{
+    text-align: center;
+    margin-left: 5%;
+    
+}
+.login{
+    text-align: center;
+    margin-left: 5%;
+}
